@@ -1,5 +1,5 @@
-### Hi there, I am Max 👋 <h1>
-  hey there
+<h1>
+  Hi there, I am Max
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
