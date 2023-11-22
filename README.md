@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,jquery,figma,git,)](https://skillicons.dev)
 
 <!--
 **unhaten/unhaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
