@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Name's Max. I am frontend developer
+
 ### My stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,figma)](https://skillicons.dev)
 
