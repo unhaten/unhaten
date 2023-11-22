@@ -5,7 +5,7 @@
 
 ### I am frontend developer
 
-https://github-readme-streak-stats.herokuapp.com/?user=unhaten
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unhaten&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### My stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,figma)](https://skillicons.dev)
