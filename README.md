@@ -4,10 +4,10 @@
 </h1>
 
 <h2>
-I am frontend developer that specify in creating convenient, fast and beautiful user interfaces by ReactJS and a lot more diferrent libraries that make React even better!
+I am frontend developer that specify in creating convenient, fast and beautiful user interfaces by ReactJS and a lot more different libraries that make React even better!
 </h2>
 
-### I can say that I am very hardworking, striving for new knowledge and very cooperative person. Moreover I had a lot of experience working in team on diferrent project, even worked for business, startups...
+### I can say that I am very hardworking, striving for new knowledge and very cooperative person. Moreover I had a lot of experience working in team on different project, even worked for business, startups...
 
 ### My stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,figma)](https://skillicons.dev)
