@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### I am frontend developer
+### I am frontend developer that specify in creating convenient, fast and beautiful user interfaces by ReactJS and a lot more diferrent libraries that make React even better!
+
+<h2>test</h2>
 
 ### My stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,figma)](https://skillicons.dev)
@@ -13,8 +15,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhaten&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h2>
 contact me in tg: @l1lcutthroat
+</h2>
 
 
 
