@@ -4,7 +4,7 @@
 </h1>
 
 <h2>
-I am frontend developer that specify in creating convenient, fast and beautiful user interfaces by ReactJS and a lot more different libraries that make React even better!
+I am frontend developer that specify in creating convenient, fast and beautiful user interfaces with ReactJS or NextJS and a lot more different libraries that make React even better!
 </h2>
 
 ### I can say that I am very hardworking, striving for new knowledge and very cooperative person.
