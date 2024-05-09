@@ -22,7 +22,7 @@ I am frontend developer that specify in creating convenient, fast and beautiful 
 <h2>
 ### LFW!
   
-you can contact me via telegram: @l1lcutthroat
+btw you can contact me via telegram: @l1lcutthroat
 </h2>
 
 
