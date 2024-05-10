@@ -20,8 +20,7 @@ I am frontend developer that specify in creating convenient, fast and beautiful 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhaten&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>
-### LFW!
-  
+### LFW! 
 btw you can contact me via telegram: @l1lcutthroat
 </h2>
 
