@@ -9,7 +9,6 @@ Frontend developer
 
 ### I had a lot of experience working in team on different project, even worked for business, startups...
 
-### My stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,redux,postgres,express,nodejs,vite,fastapi,threejs,figma)](https://skillicons.dev)
 
 ### My stats:
