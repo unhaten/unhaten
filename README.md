@@ -7,7 +7,7 @@
 Frontend developer
 </h2>
 
-### I had a lot of experience working in team on different project, even worked for business, startups...
+### 2+ years of work experience
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,nextjs,threejs)](https://skillicons.dev)
 
@@ -17,7 +17,7 @@ Frontend developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhaten&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>
-btw you can contact me via telegram: @unhaten
+contact me via telegram: @unhaten
 </h2>
 
 
