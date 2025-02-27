@@ -17,7 +17,7 @@ Frontend developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhaten&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>
-Contact me via telegram: @unhaten
+Contact me via telegram: <a href='https://t.me/therealscp' noopener noreferer>@unhaten</a>
 </h2>
 
 
