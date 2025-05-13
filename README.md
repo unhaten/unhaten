@@ -1,10 +1,5 @@
-<h1>
-  Greetings, name's Max
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <h2>
-Frontend developer
+Frontend dev <a href='https://t.me/unhaten' noopener noreferer>@unhaten</a>
 </h2>
 
 ### 2+ years of work experience
@@ -15,10 +10,6 @@ Frontend developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=Unhaten&theme=tokyonight-duo&border_radius=24)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unhaten&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>
-Contact me via telegram: <a href='https://t.me/unhaten' noopener noreferer>@unhaten</a>
-</h2>
 
 
 
