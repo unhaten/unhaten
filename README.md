@@ -1,8 +1,3 @@
-<h2>
-Frontend dev <a href='https://t.me/unhaten' noopener noreferer>@unhaten</a>
-</h2>
-
-### 2+ years of work experience
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nestjs,nextjs,threejs)](https://skillicons.dev)
 
